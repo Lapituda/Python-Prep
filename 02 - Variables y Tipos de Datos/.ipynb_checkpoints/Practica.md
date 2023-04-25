@@ -2,6 +2,9 @@
 
 1) Crear una variable que contenga un elemento del conjunto de números enteros y luego imprimir por pantalla
 
+a = 12
+print(a)
+
 2) Imprimir el tipo de dato de la constante 8.5
 
 3) Imprimir el tipo de dato de la variable creada en el punto 1

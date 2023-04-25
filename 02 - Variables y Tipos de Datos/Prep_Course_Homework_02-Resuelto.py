@@ -18,6 +18,7 @@ print(a)
 
 
 type(8.5)
+print(type)
 
 
 # 3) Imprimir el tipo de dato de la variable creada en el punto 1
@@ -239,4 +240,3 @@ str(2) + str('2')
 var1 = 'este texto se repite '
 var2 = 3
 print(var1 * var2 + str(var2) + ' veces')
-
